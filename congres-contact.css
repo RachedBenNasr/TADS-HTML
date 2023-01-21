@@ -1,0 +1,493 @@
+.congres-contact-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.congres-contact-gongres {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #fcfbf8;
+}
+.congres-contact-container01 {
+  flex: 0 0 auto;
+  width: 94.5%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #007ff7;
+}
+.congres-contact-navlink {
+  display: contents;
+}
+.congres-contact-container02 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  padding: 5px;
+  margin-top: 5px;
+  align-items: center;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 5px;
+  justify-content: center;
+  text-decoration: none;
+}
+.congres-contact-text {
+  color: rgba(255, 255, 255, 0.5);
+  width: auto;
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.congres-contact-navlink1 {
+  display: contents;
+}
+.congres-contact-container03 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  padding: 5px;
+  margin-top: 5px;
+  align-items: center;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 5px;
+  justify-content: center;
+  text-decoration: none;
+}
+.congres-contact-text02 {
+  color: rgba(255, 255, 255, 0.5);
+  width: auto;
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.congres-contact-navlink2 {
+  display: contents;
+}
+.congres-contact-container04 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  padding: 5px;
+  margin-top: 5px;
+  align-items: center;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 5px;
+  justify-content: center;
+  text-decoration: none;
+}
+.congres-contact-text03 {
+  color: rgba(255, 255, 255, 1);
+  width: auto;
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration:  underline none;
+}
+.congres-contact-everything {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-self: flex-end;
+  align-items: center;
+  margin-bottom: 0px;
+  flex-direction: column;
+  justify-content: center;
+}
+.congres-contact-container05 {
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: center;
+}
+.congres-contact-text05 {
+  color: rgba(0, 0, 0, 0.698);
+  width: auto;
+  height: auto;
+  font-size: 40px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.congres-contact-cards {
+  width: 80%;
+  display: flex;
+  padding: 50px;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.congres-contact-form {
+  width: auto;
+  height: auto;
+  margin: 100px;
+  display: flex;
+  padding: 20px;
+  box-shadow: 5px 5px 40px 10px #000000;
+  align-items: center;
+  justify-content: center;
+}
+.congres-contact-container06 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.congres-contact-text06 {
+  color: var(--dl-color-gray-500);
+  width: auto;
+  height: auto;
+  margin: 15px;
+  font-size: 30px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.congres-contact-container07 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.congres-contact-container08 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.congres-contact-container09 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.congres-contact-container10 {
+  flex: 0 0 auto;
+  width: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.congres-contact-textinput {
+  color: #000000;
+  margin: 15px;
+  border-color: var(--dl-color-gray-500);
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+.congres-contact-textinput1 {
+  color: #000000;
+  margin: 15px;
+  border-color: var(--dl-color-gray-500);
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+.congres-contact-textinput2 {
+  color: #000000;
+  margin: 15px;
+  border-color: var(--dl-color-gray-500);
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+.congres-contact-textarea {
+  color: #000000;
+  width: var(--dl-size-size-xxlarge);
+  height: var(--dl-size-size-large);
+  margin: 15px;
+  border-color: var(--dl-color-gray-500);
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+.congres-contact-frame8 {
+  width: auto;
+  margin: 15px;
+  display: flex;
+  padding: 13px 32px;
+  align-self: flex-end;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  transition: 0.3s;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(213, 213, 213, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 30px;
+  justify-content: center;
+  background-color: #007ff7;
+}
+
+.congres-contact-text09 {
+  color: #000000;
+  width: auto;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 35px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.congres-contact-container11 {
+  flex: 0 0 auto;
+  height: 100%;
+  margin: 100px;
+  display: flex;
+  padding: 20px;
+  box-shadow: 5px 5px 40px 10px #000000;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.congres-contact-text12 {
+  color: var(--dl-color-gray-500);
+  width: auto;
+  height: auto;
+  margin: 15px;
+  font-size: 30px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.congres-contact-group26 {
+  width: auto;
+  height: auto;
+  margin: 10px;
+  display: flex;
+  padding: 10px;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.congres-contact-container12 {
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.congres-contact-icon {
+  fill: #007ff7;
+  width: 60px;
+  height: auto;
+  align-self: center;
+}
+.congres-contact-container13 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  margin: 5px;
+  display: flex;
+  padding: 5px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.congres-contact-text15 {
+  color: var(--dl-color-gray-black);
+  width: auto;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.congres-contact-text17 {
+  color: var(--dl-color-gray-500);
+  width: auto;
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.congres-contact-group28 {
+  width: auto;
+  height: auto;
+  margin: 10px;
+  display: flex;
+  padding: 10px;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.congres-contact-container14 {
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.congres-contact-icon2 {
+  fill: #007ff7;
+  width: 60px;
+  height: auto;
+  align-self: center;
+}
+.congres-contact-container15 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  margin: 5px;
+  display: flex;
+  padding: 5px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.congres-contact-text20 {
+  color: var(--dl-color-gray-black);
+  width: auto;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.congres-contact-text22 {
+  color: var(--dl-color-gray-500);
+  width: auto;
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+@media(max-width: 1920px) {
+  .congres-contact-gongres {
+    align-self: center;
+    align-items: center;
+    margin-bottom: 0px;
+  }
+  .congres-contact-container04 {
+    margin: 10px;
+  }
+}
+@media(max-width: 1366px) {
+  .congres-contact-form {
+    margin: 20px;
+  }
+  .congres-contact-container11 {
+    margin: 20px;
+  }
+}
+@media(max-width: 1200px) {
+  .congres-contact-cards {
+    flex-direction: column;
+  }
+  .congres-contact-text07 {
+    font-size: 30px;
+  }
+  .congres-contact-text13 {
+    font-size: 30px;
+  }
+}

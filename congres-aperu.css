@@ -1,0 +1,1178 @@
+.congres-aperu-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.congres-aperu-gongres {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #fcfbf8;
+}
+.congres-aperu-select {
+  flex: 0 0 auto;
+  width: 94.5%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #007ff7;
+}
+.congres-aperu-navlink {
+  display: contents;
+}
+.congres-aperu-container01 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  padding: 5px;
+  margin-top: 5px;
+  align-items: center;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 5px;
+  justify-content: center;
+  text-decoration: none;
+}
+.congres-aperu-text {
+  color: #ffffff;
+  width: auto;
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.congres-aperu-navlink1 {
+  display: contents;
+}
+.congres-aperu-container02 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  padding: 5px;
+  margin-top: 5px;
+  align-items: center;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 5px;
+  justify-content: center;
+  text-decoration: none;
+}
+.congres-aperu-text02 {
+  color: rgba(255, 255, 255, 0.5);
+  width: auto;
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.congres-aperu-navlink2 {
+  display: contents;
+}
+.congres-aperu-container03 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  padding: 5px;
+  margin-top: 5px;
+  align-items: center;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 5px;
+  justify-content: center;
+  text-decoration: none;
+}
+.congres-aperu-text03 {
+  color: rgba(255, 255, 255, 0.5);
+  width: auto;
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration:  underline none;
+}
+.congres-aperu-presentation {
+  flex: 0 0 auto;
+  width: 90%;
+  height: auto;
+  margin: 30px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.congres-aperu-container04 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 1px;
+}
+.congres-aperu-title {
+  width: 50%;
+  display: flex;
+  max-width: auto;
+  align-self: center;
+  transition: 0.3s;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.congres-aperu-title:hover {
+  transform: scale(1.02);
+}
+.congres-aperu-text05 {
+  color: #000000;
+  width: 149px;
+  height: auto;
+  font-size: 1.25rem;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.congres-aperu-title1 {
+  width: 50%;
+  display: flex;
+  max-width: auto;
+  align-self: center;
+  transition: 0.3s;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.congres-aperu-title1:hover {
+  transform: scale(1.02);
+}
+.congres-aperu-text08 {
+  color: rgb(0, 0, 0);
+  width: auto;
+  height: auto;
+  margin: 40px;
+  font-size: 1.25rem;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.congres-aperu-container05 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.congres-aperu-left {
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.congres-aperu-blog-post-card {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  transition: 0.3s;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.congres-aperu-blog-post-card:hover {
+  transform: scale(1.02);
+}
+.congres-aperu-container06 {
+  width: 90%;
+  display: flex;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-twounits);
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.congres-aperu-container07 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: var(--dl-space-space-halfunit);
+  flex-direction: row;
+  justify-content: space-between;
+}
+.congres-aperu-text09 {
+  color: var(--dl-color-gray-500);
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.congres-aperu-text10 {
+  color: var(--dl-color-gray-500);
+  font-weight: 300;
+}
+.congres-aperu-text11 {
+  color: #007ff7;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.congres-aperu-text12 {
+  color: #000000;
+  font-size: 1.25rem;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.congres-aperu-text16 {
+  color: var(--dl-color-gray-700);
+  font-size: 1.25rem;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.congres-aperu-blog-post-card1 {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  transition: 0.3s;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.congres-aperu-blog-post-card1:hover {
+  transform: scale(1.02);
+}
+.congres-aperu-container08 {
+  width: 90%;
+  display: flex;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-twounits);
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.congres-aperu-container09 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: var(--dl-space-space-halfunit);
+  flex-direction: row;
+  justify-content: space-between;
+}
+.congres-aperu-text19 {
+  color: var(--dl-color-gray-500);
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.congres-aperu-text20 {
+  color: var(--dl-color-gray-500);
+  font-weight: 300;
+}
+.congres-aperu-text21 {
+  color: #007ff7;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.congres-aperu-text22 {
+  color: #000000;
+  font-size: 1.25rem;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.congres-aperu-text26 {
+  color: var(--dl-color-gray-700);
+  font-size: 1.25rem;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.congres-aperu-blog-post-card2 {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  transition: 0.3s;
+  align-items: stretch;
+  border-color: #ffffff;
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: row;
+  justify-content: space-between;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.congres-aperu-blog-post-card2:hover {
+  transform: scale(1.02);
+}
+.congres-aperu-container10 {
+  width: 90%;
+  display: flex;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-twounits);
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.congres-aperu-container11 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: var(--dl-space-space-halfunit);
+  flex-direction: row;
+  justify-content: space-between;
+}
+.congres-aperu-text29 {
+  color: var(--dl-color-gray-500);
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.congres-aperu-text30 {
+  color: var(--dl-color-gray-500);
+  font-weight: 300;
+}
+.congres-aperu-text31 {
+  color: #007ff7;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.congres-aperu-text32 {
+  color: #000000;
+  font-size: 1.25rem;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.congres-aperu-text36 {
+  color: var(--dl-color-gray-700);
+  font-size: 1.25rem;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.congres-aperu-right {
+  flex: 0 0 auto;
+  width: 50%;
+  height: 100%;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.congres-aperu-video {
+  width: 100%;
+  height: auto;
+  margin: 30px;
+  align-self: center;
+}
+.congres-aperu-page {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-self: flex-end;
+  align-items: center;
+  margin-bottom: 0px;
+  justify-content: center;
+}
+.congres-aperu-left1 {
+  flex: 0 0 auto;
+  width: 90%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  padding-right: 0px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.congres-aperu-container12 {
+  margin: var(--dl-space-space-twounits);
+  display: flex;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.congres-aperu-icon {
+  fill: #007ff7;
+  width: var(--dl-size-size-small);
+  height: auto;
+  align-self: flex-end;
+}
+.congres-aperu-text39 {
+  color: #000000;
+  width: auto;
+  height: auto;
+  font-size: 28px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.congres-aperu-container13 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  margin: 15px;
+  display: flex;
+  padding: 30px;
+  align-items: center;
+  justify-content: center;
+}
+.congres-aperu-text42 {
+  color: rgb(0, 0, 0);
+  width: 100%;
+  height: auto;
+  font-size: 16px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.congres-aperu-sections {
+  width: 100%;
+  height: auto;
+  margin: 15px;
+  display: flex;
+  padding: 30px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.congres-aperu-container14 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 50px;
+  align-items: center;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  justify-content: center;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.congres-aperu-container15 {
+  flex: 0 0 auto;
+  width: 50%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.congres-aperu-text51 {
+  color: rgb(0, 0, 0);
+  width: auto;
+  height: auto;
+  font-size: 40px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 35px;
+  font-stretch: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.congres-aperu-text54 {
+  color: rgb(0, 0, 0);
+  width: 100%;
+  height: auto;
+  font-size: 16px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.congres-aperu-container16 {
+  flex: 0 0 auto;
+  width: 50%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.congres-aperu-image {
+  width: 100%;
+  align-self: center;
+  object-fit: cover;
+}
+.congres-aperu-container17 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 50px;
+  align-items: center;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  justify-content: center;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.congres-aperu-container18 {
+  flex: 0 0 auto;
+  width: 0%;
+  height: 0px;
+  display: flex;
+  opacity: 0;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.congres-aperu-text57 {
+  color: rgb(0, 0, 0);
+  width: auto;
+  height: auto;
+  font-size: 40px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 35px;
+  font-stretch: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.congres-aperu-container19 {
+  flex: 0 0 auto;
+  width: 50%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.congres-aperu-image1 {
+  width: 100%;
+  align-self: center;
+  object-fit: cover;
+}
+.congres-aperu-container20 {
+  flex: 0 0 auto;
+  width: 50%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.congres-aperu-text60 {
+  color: rgb(0, 0, 0);
+  width: auto;
+  height: auto;
+  font-size: 40px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 35px;
+  font-stretch: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.congres-aperu-text63 {
+  color: rgb(0, 0, 0);
+  width: 100%;
+  height: auto;
+  font-size: 16px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.congres-aperu-container21 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 50px;
+  align-items: center;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  justify-content: center;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.congres-aperu-container22 {
+  flex: 0 0 auto;
+  width: 50%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.congres-aperu-text66 {
+  color: rgb(0, 0, 0);
+  width: auto;
+  height: auto;
+  font-size: 40px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 35px;
+  font-stretch: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.congres-aperu-text69 {
+  color: rgb(0, 0, 0);
+  width: 100%;
+  height: auto;
+  font-size: 16px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.congres-aperu-container23 {
+  flex: 0 0 auto;
+  width: 50%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.congres-aperu-image2 {
+  width: 100%;
+  align-self: center;
+  object-fit: cover;
+}
+.congres-aperu-partners {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.congres-aperu-container24 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  padding: 20px;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+}
+.congres-aperu-text72 {
+  color: rgb(0, 0, 0);
+  width: auto;
+  height: auto;
+  font-size: 40px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 35px;
+  border-color: #007ff7;
+  border-width: 1px;
+  font-stretch: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 3px;
+}
+.congres-aperu-container25 {
+  flex: 0 0 auto;
+  width: auto;
+  height: 130px;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+}
+.congres-aperu-google {
+  width: auto;
+  height: 100%;
+  margin: 30px;
+  align-self: center;
+}
+.congres-aperu-google1 {
+  width: auto;
+  height: 100%;
+  margin: 30px;
+  align-self: center;
+}
+.congres-aperu-google2 {
+  width: auto;
+  height: 100%;
+  margin: 30px;
+  align-self: center;
+}
+.congres-aperu-google3 {
+  width: auto;
+  height: 100%;
+  margin: 30px;
+  align-self: center;
+}
+.congres-aperu-google4 {
+  width: auto;
+  height: 100%;
+  margin: 30px;
+  align-self: center;
+}
+.congres-aperu-google5 {
+  width: auto;
+  height: 100%;
+  margin: 30px;
+  align-self: center;
+}
+@media(max-width: 2140px) {
+  .congres-aperu-text09 {
+    color: var(--dl-color-gray-500);
+    font-weight: 600;
+    text-transform: capitalize;
+  }
+  .congres-aperu-text10 {
+    color: var(--dl-color-gray-500);
+  }
+  .congres-aperu-text12 {
+    color: var(--dl-color-gray-700);
+  }
+  .congres-aperu-text16 {
+    color: var(--dl-color-gray-700);
+  }
+  .congres-aperu-blog-post-card1 {
+    width: 100%;
+  }
+  .congres-aperu-text19 {
+    color: var(--dl-color-gray-500);
+    font-weight: 600;
+    text-transform: capitalize;
+  }
+  .congres-aperu-text20 {
+    color: var(--dl-color-gray-500);
+  }
+  .congres-aperu-text22 {
+    color: var(--dl-color-gray-700);
+  }
+  .congres-aperu-text26 {
+    color: var(--dl-color-gray-700);
+  }
+  .congres-aperu-blog-post-card2 {
+    width: 100%;
+  }
+  .congres-aperu-text29 {
+    color: var(--dl-color-gray-500);
+    font-weight: 600;
+    text-transform: capitalize;
+  }
+  .congres-aperu-text30 {
+    color: var(--dl-color-gray-500);
+  }
+  .congres-aperu-text32 {
+    color: var(--dl-color-gray-700);
+  }
+  .congres-aperu-text36 {
+    color: var(--dl-color-gray-700);
+  }
+  .congres-aperu-page {
+    gap: var(--dl-space-space-halfunit);
+    flex: 1;
+    width: 100%;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+  }
+  .congres-aperu-left1 {
+    flex: 1;
+    width: 70%;
+    align-self: flex-start;
+    flex-direction: column;
+  }
+}
+@media(max-width: 1920px) {
+  .congres-aperu-gongres {
+    align-self: center;
+    align-items: center;
+    margin-bottom: 0px;
+  }
+  .congres-aperu-container03 {
+    margin: 10px;
+  }
+  .congres-aperu-text16 {
+    color: var(--dl-color-gray-700);
+    font-size: 1.25rem;
+    text-align: left;
+  }
+  .congres-aperu-text26 {
+    color: var(--dl-color-gray-700);
+    font-size: 1.25rem;
+    text-align: left;
+  }
+  .congres-aperu-text36 {
+    color: var(--dl-color-gray-700);
+    font-size: 1.25rem;
+    text-align: left;
+  }
+  .congres-aperu-page {
+    align-self: flex-end;
+    align-items: center;
+    justify-content: center;
+  }
+  .congres-aperu-left1 {
+    width: 70%;
+    padding-left: var(--dl-space-space-twounits);
+  }
+  .congres-aperu-text42 {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-style: normal;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 30px;
+    text-decoration: none;
+  }
+  .congres-aperu-text45 {
+    color: #000000;
+    font-size: 16px;
+    font-style: normal;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 30px;
+    text-decoration: none;
+  }
+  .congres-aperu-text48 {
+    color: #000000;
+    font-size: 16px;
+    font-style: normal;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 30px;
+    text-decoration: none;
+  }
+  .congres-aperu-text54 {
+    color: rgb(0, 0, 0);
+    width: auto;
+    margin: 20px;
+  }
+  .congres-aperu-text63 {
+    color: rgb(0, 0, 0);
+    width: auto;
+    margin: 20px;
+    font-size: 16px;
+    font-style: normal;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 30px;
+    text-decoration: none;
+  }
+  .congres-aperu-text69 {
+    color: rgb(0, 0, 0);
+    width: auto;
+    margin: 20px;
+    font-size: 16px;
+    font-style: normal;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 30px;
+    text-decoration: none;
+  }
+  .congres-aperu-partners {
+    width: auto;
+  }
+}
+@media(max-width: 1366px) {
+  .congres-aperu-text08 {
+    left: 0px;
+  }
+  .congres-aperu-text12 {
+    margin-bottom: 0px;
+  }
+  .congres-aperu-text22 {
+    margin-bottom: 0px;
+  }
+  .congres-aperu-text32 {
+    margin-bottom: 0px;
+  }
+  .congres-aperu-page {
+    width: 100%;
+  }
+  .congres-aperu-left1 {
+    position: relative;
+    min-height: 600px;
+    align-items: center;
+    flex-direction: column;
+  }
+}
+@media(max-width: 1200px) {
+  .congres-aperu-container04 {
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .congres-aperu-title {
+    align-self: center;
+    justify-content: center;
+  }
+  .congres-aperu-title1 {
+    height: 0px;
+    align-self: center;
+    justify-content: center;
+  }
+  .congres-aperu-text08 {
+    left: 0px;
+    opacity: 0;
+    align-self: center;
+    text-align: center;
+  }
+  .congres-aperu-container05 {
+    flex-direction: column;
+  }
+  .congres-aperu-text11 {
+    margin-bottom: 0px;
+  }
+  .congres-aperu-text21 {
+    margin-bottom: 0px;
+  }
+  .congres-aperu-text31 {
+    margin-bottom: 0px;
+  }
+  .congres-aperu-page {
+    margin-top: 0px;
+  }
+  .congres-aperu-left1 {
+    min-height: auto;
+  }
+  .congres-aperu-container14 {
+    flex-direction: column;
+  }
+  .congres-aperu-image {
+    margin: 50px;
+  }
+  .congres-aperu-container17 {
+    flex-direction: column;
+  }
+  .congres-aperu-container18 {
+    width: 50%;
+    height: auto;
+    opacity: 1;
+  }
+  .congres-aperu-text57 {
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-style: normal;
+    font-family: Poppins;
+    font-weight: 800;
+    line-height: 35px;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .congres-aperu-image1 {
+    margin: 50px;
+  }
+  .congres-aperu-container20 {
+    width: 0%;
+    height: 0px;
+    opacity: 0;
+  }
+  .congres-aperu-container21 {
+    flex-direction: column;
+  }
+  .congres-aperu-image2 {
+    margin: 50px;
+  }
+}
+@media(max-width: 991px) {
+  .congres-aperu-title {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .congres-aperu-title1 {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .congres-aperu-blog-post-card {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .congres-aperu-blog-post-card1 {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .congres-aperu-blog-post-card2 {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
+@media(max-width: 767px) {
+  .congres-aperu-title {
+    flex-direction: column;
+  }
+  .congres-aperu-title1 {
+    flex-direction: column;
+  }
+  .congres-aperu-blog-post-card {
+    flex-direction: column;
+  }
+  .congres-aperu-blog-post-card1 {
+    flex-direction: column;
+  }
+  .congres-aperu-blog-post-card2 {
+    flex-direction: column;
+  }
+}
+@media(max-width: 750px) {
+  .congres-aperu-gongres {
+    height: 5200px;
+  }
+  .congres-aperu-text08 {
+    left: 0px;
+  }
+  .congres-aperu-container05 {
+    height: auto;
+  }
+  .congres-aperu-left {
+    height: 50%;
+    justify-content: flex-start;
+  }
+  .congres-aperu-blog-post-card {
+    height: auto;
+  }
+  .congres-aperu-text11 {
+    font-size: 1.5em;
+  }
+  .congres-aperu-text12 {
+    font-size: 1rem;
+  }
+  .congres-aperu-text16 {
+    font-size: 1rem;
+  }
+  .congres-aperu-blog-post-card1 {
+    height: auto;
+  }
+  .congres-aperu-text21 {
+    font-size: 1.5em;
+  }
+  .congres-aperu-text22 {
+    font-size: 1rem;
+  }
+  .congres-aperu-text26 {
+    font-size: 1rem;
+  }
+  .congres-aperu-blog-post-card2 {
+    height: auto;
+  }
+  .congres-aperu-text31 {
+    font-size: 1.5em;
+  }
+  .congres-aperu-text32 {
+    font-size: 1rem;
+  }
+  .congres-aperu-text36 {
+    font-size: 1rem;
+  }
+  .congres-aperu-right {
+    height: 50%;
+    justify-content: flex-end;
+  }
+  .congres-aperu-page {
+    height: auto;
+    align-self: flex-end;
+    margin-bottom: 0px;
+  }
+  .congres-aperu-left1 {
+    height: 100px;
+  }
+  .congres-aperu-sections {
+    height: auto;
+  }
+  .congres-aperu-container25 {
+    height: auto;
+  }
+}

@@ -1,0 +1,173 @@
+.congres-form-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.congres-form-gongres {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #fcfbf8;
+}
+.congres-form-container1 {
+  flex: 0 0 auto;
+  width: 94.5%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #007ff7;
+}
+.congres-form-navlink {
+  display: contents;
+}
+.congres-form-container2 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  padding: 5px;
+  margin-top: 5px;
+  align-items: center;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 5px;
+  justify-content: center;
+  text-decoration: none;
+}
+.congres-form-text {
+  color: rgba(255, 255, 255, 0.5);
+  width: auto;
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.congres-form-navlink1 {
+  display: contents;
+}
+.congres-form-container3 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  padding: 5px;
+  margin-top: 5px;
+  align-items: center;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 5px;
+  justify-content: center;
+  text-decoration: none;
+}
+.congres-form-text2 {
+  color: rgba(255, 255, 255, 0.5);
+  width: auto;
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.congres-form-navlink2 {
+  display: contents;
+}
+.congres-form-container4 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  padding: 5px;
+  margin-top: 5px;
+  align-items: center;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 5px;
+  justify-content: center;
+  text-decoration: none;
+}
+.congres-form-text3 {
+  color: rgba(255, 255, 255, 0.5);
+  width: auto;
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration:  underline none;
+}
+.congres-form-everything {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-self: flex-end;
+  align-items: center;
+  margin-bottom: 0px;
+  flex-direction: column;
+  justify-content: center;
+}
+.congres-form-select {
+  margin: 50px;
+  box-shadow: 5px 5px 10px 0px #000000;
+  padding-top: 20px;
+  border-color: #007ff7;
+  border-width: 1px;
+  padding-left: 40px;
+  border-radius: 20px;
+  padding-right: 40px;
+  padding-bottom: 20px;
+}
+.congres-form-container5 {
+  flex: 0 0 auto;
+  width: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.congres-form-iframe {
+  width: auto;
+  height: auto;
+}
+@media(max-width: 1920px) {
+  .congres-form-gongres {
+    align-self: center;
+    align-items: center;
+    margin-bottom: 0px;
+  }
+  .congres-form-container4 {
+    margin: 10px;
+  }
+}
